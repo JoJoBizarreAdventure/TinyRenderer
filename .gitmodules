@@ -1,0 +1,12 @@
+[submodule "libs/lua/lua-cmake/lua"]
+	path = libs/lua/lua-cmake/lua
+	url = git@github.com:lua/lua.git
+[submodule "libs/eigen"]
+	path = libs/eigen
+	url = git@gitlab.com:libeigen/eigen.git
+[submodule "libs/lua/lua-debug/MobDebug"]
+	path = libs/lua/lua-debug/MobDebug
+	url = git@github.com:pkulchenko/MobDebug.git
+[submodule "libs/lua/lua-debug/luasocket"]
+	path = libs/lua/lua-debug/luasocket
+	url = git@github.com:lunarmodules/luasocket.git
